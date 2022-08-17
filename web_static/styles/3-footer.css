@@ -1,0 +1,10 @@
+footer {
+    color: #ffffff;
+    height: 60px;
+    width: 100%;
+    border-top: 1px #CCCCCC;
+    content: "Best School";
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
